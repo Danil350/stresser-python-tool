@@ -1,5 +1,5 @@
 Elite Python IP Stresser & IP Booter - Ultimate Network Stresser 🚀
-Made by https://datapulse.one 🌟
+Made by https://datapulse.lol/ 🌟
 🚀 Introduction
 Welcome to the DataPulse Python Tool — a premium network utility and stresser crafted for advanced users!
 
@@ -66,10 +66,10 @@ Apex Legends Connect: TCP connection barrage.
 
 🖥️ Cool Vibes:
 
-🎨 Stunning ASCII art intro: DataPulse Stresser - Powered by datapulse.one.
+🎨 Stunning ASCII art intro: DataPulse Stresser - Powered by https://datapulse.lol/.
 🌈 Colors: Neon cyan for start, green for success, red for errors.
 📊 Real-time packet/connection/request counter.
-🏷️ Window title: DataPulse Python Tool By datapulse.one.
+🏷️ Window title: DataPulse Python Tool By https://datapulse.lol/.
 
 🛠️ Installation
 📋 Requirements:
@@ -90,9 +90,9 @@ Run the Tool:textpython3 datapulse_python_tool.py(On Windows: try python if pyth
 🎮 Usage
 ▶️ Launch & Enjoy:
 
-🚀 Window title changes to DataPulse Python Tool By datapulse.one.
+🚀 Window title changes to DataPulse Python Tool By https://datapulse.lol/.
 🖥️ Main screen:textDataPulse Stresser
- Powered by datapulse.one
+ Powered by https://datapulse.lol/
  Version 1.0
 
 🎯 Choose Category:
@@ -144,8 +144,8 @@ CheckHost & Tools: Free APIs for diagnostics and recon.
 
 📈 Tracks and displays total packets/connections/requests after every attack!
 🙌 Credits
-🌟 Powered by https://datapulse.one!
-🔥 Crafted by the elite network team at datapulse.one.
+🌟 Powered by https://datapulse.lol/!
+🔥 Crafted by the elite network team at https://datapulse.lol/.
 🚀 Your premium hub for server stress-testing and network diagnostics!
 📜 License
 ⚖️ For educational and legal testing only.
